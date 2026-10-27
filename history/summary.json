@@ -4,23 +4,23 @@
     "url": "https://www.yinwurealm.org/",
     "icon": "https://yinwupotato.github.io/yinwurealm-status/yinwurealm-icon.png",
     "slug": "website",
-    "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
-    "time": 1970,
-    "timeDay": 800,
-    "timeWeek": 2036,
-    "timeMonth": 1970,
-    "timeYear": 1970,
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "98.90%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
+    "time": 1963,
+    "timeDay": 769,
+    "timeWeek": 2012,
+    "timeMonth": 1963,
+    "timeYear": 1963,
     "dailyMinutesDown": {
       "2026-10-13": 1,
       "2026-10-16": 8,
       "2026-10-22": 7,
       "2026-10-23": 2,
-      "2026-10-27": 0
+      "2026-10-27": 16
     }
   }
 ]
